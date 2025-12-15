@@ -21,7 +21,7 @@ def problem_1a():
         pretty, good, bad, plot, not, scenery
     """
     # BEGIN_YOUR_ANSWER (our solution is 1 lines of code, but don't worry if you deviate from this)
-    return {'pretty': 1, 'good': 0, 'bad': 0, 'plot': 0, 'not': -1, 'scenery': 0}
+    return {'pretty': 1, 'good': 0, 'bad': -1, 'plot': 0, 'not': -1, 'scenery': 0}
     # END_YOUR_ANSWER
 
 
